@@ -1,16 +1,18 @@
-## Hi there 👋
+## What's up! 🤗
 
-<!--
-**stella-wyj/stella-wyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stella, and I'm currently pursuing a Bachelor's in Computer Science and Math.
 
-Here are some ideas to get you started:
+I design and build whatever I can think of purely for the love of the game! Once a seed is planted in my brain, 
+I can't help but try to program it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my page, you'll find repositories that sort my projects by their "difficulty" ⛏️ (if you play MC). Some projects
+are still in the works.
+
+Of course, my journey is still far from over, so there will definitely be more to come!
+
+Thanks for stopping by! 🚀
+
+
+
+## P.S:
+- I love playing volleyball, so if you're looking for someone to play...REACH OUT ASAP
