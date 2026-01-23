@@ -14,5 +14,5 @@ Thanks for stopping by! 🚀
 
 
 
-## P.S:
+**PS:**
 - I love playing volleyball, so if you're looking for someone to play...REACH OUT ASAP
